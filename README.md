@@ -26,7 +26,8 @@ This application can be used as a digitial notebook app to view, add, and delete
 
 ## Deployed application
 
-[![Notetaker Application](Assets/11-express-homework-demo-01.png)](https://github.com/ChrisZ304/HW11-Notetaker)<br />
+[![Notetaker Application](Assets/11-express-homework-demo-01.png)](https://hw11-notetaker-app.herokuapp.com/)<br />
+https://hw11-notetaker-app.herokuapp.com/
 
 ## Languages
 
